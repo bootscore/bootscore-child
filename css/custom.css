@@ -1,2 +1,24 @@
 /* Do whatever you want */
 
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+body.admin-bar {
+    height: calc(100vh - 46px);
+}
+#content {
+    margin-top: 60px; /* Fix sticky menu */
+}
+
+
+[class^="bi-"]::before, [class*=" bi-"]::before {
+    line-height: 1.3;
+}
+
+@media (min-width: 768px) {
+    body.admin-bar {
+        height: calc(100vh - 32px);
+    }
+}
