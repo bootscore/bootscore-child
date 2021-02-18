@@ -16,4 +16,28 @@
 		wp_register_script('child', get_stylesheet_directory_uri() . '/js/child.js', false, '', true);
 		wp_enqueue_script('child');
 	}
-	add_action( 'wp_enqueue_scripts', 'child_add_scripts' ); 
+	add_action( 'wp_enqueue_scripts', 'child_add_scripts' );
+
+
+    // Extract first paragraph for excerpt and return with permalink
+    function bootscore_excerpt() {
+        the_first_paragraph();
+        echo '<a class="read-more" href='. get_the_permalink() .'">'. __('Read more »', 'bootscore') . '</a>';
+    }
+
+    function the_first_paragraph() {
+        echo wpautop(first_paragraph());
+    }
+
+    function first_paragraph() {
+        if( !is_admin() ){
+            if( !has_excerpt() ) {
+                $content = apply_filters( 'the_content',get_the_content() );
+                $text = strip_tags( substr( $content,0,strpos( $content,"</p>" ) + 4 ) );
+                if( !empty( $text ) ) {
+                    return $text;
+                }
+            }
+            return get_the_excerpt();
+        }
+    }
