@@ -4,6 +4,13 @@
  Author:       craftwerk - Bastian Kreiter
  Author URI:   https://crftwrk.de
  Template:     bootscore-5
- Version:      5.0.0.2
+ Version:      5.0.0.3
  Text Domain:  bootscore
 */
+
+/* 
+Add as many files as you need for development. 
+When you're done, merge them all in the style.css file to reduce file requests. 
+*/
+
+@import url("css/custom.css");
