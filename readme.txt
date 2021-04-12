@@ -42,7 +42,7 @@ https://bootscore.me/documentation/using-the-child-themes/
         * [IMPROVEMENT] Readded custom.js
         * [IMPROVEMENT] Added reasme.txt
 
-    = 5.0.0.2 - February 23 2021 =
+    = 5.0.0.2 - March 11 2021 =
     
         * [REMOVED] Removed custom.css
         
