@@ -44,7 +44,7 @@ https://bootscore.me/documentation/using-the-child-themes/
         * [NEW] Added language folder (languages moves from bootScore parent into language packs later)
         * [IMPROVEMENT] Readded custom.css
         * [IMPROVEMENT] Readded custom.js
-        * [IMPROVEMENT] Added reasme.txt
+        * [IMPROVEMENT] Added readme.txt
 
     = 5.0.0.2 - March 11 2021 =
     
