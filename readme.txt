@@ -5,7 +5,7 @@ Contributors: craftwerk
 Requires at least: 4.5
 Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 5.0.0.3
+Stable tag: 5.0.0.4
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,10 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.0.0.4 - April 16 2021 =
+    
+        * [NEW] Added empty folder css/lib/ to insert your own bootstrap.min.css.
 
     = 5.0.0.3 - April 12 2021 =
     
