@@ -3,18 +3,18 @@
 Contributors: craftwerk
 
 Requires at least: 4.5
-Tested up to: 5.7
+Tested up to: 5.8
 Requires PHP: 5.6
 Stable tag: 5.0.0.4
-License: GNU General Public License v2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: MIT License
+License URI: https://github.com/crftwrk/bootscore-child/blob/main/LICENSE
 
 
 == Description ==
 
 Child Theme for bootScore, Copyright 2019 - 2021 Bastian Kreiter.
 
-Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore 5 parent theme.
+Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
 
 
 == Live preview ==
