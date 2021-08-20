@@ -1,4 +1,4 @@
-=== bootScore 5 Child Theme ===
+=== bootScore Child Theme ===
 
 Contributors: craftwerk
 
@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Child Theme for bootScore 5, Copyright 2019 - 2021 Bastian Kreiter.
+Child Theme for bootScore, Copyright 2019 - 2021 Bastian Kreiter.
 
 Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore 5 parent theme.
 
