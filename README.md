@@ -1,4 +1,4 @@
-# bootScore Child
+# bootScore Child Theme
 
 Start developing your new WordPress project right away in a upgrade-safe way using overrides by copying files from [bootScore](https://github.com/crftwrk/bootscore) parent theme.
 
