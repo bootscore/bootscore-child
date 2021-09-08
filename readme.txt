@@ -5,7 +5,7 @@ Contributors: craftwerk
 Requires at least: 4.5
 Tested up to: 5.8
 Requires PHP: 5.6
-Stable tag: 5.0.0.4
+Stable tag: 5.1.0.0
 License: MIT License
 License URI: https://github.com/crftwrk/bootscore-child/blob/main/LICENSE
 
@@ -34,6 +34,10 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.1.0.0 - September 08 2021 =
+    
+        * [CHANGED] Set path to the new repository name of bootScore parent theme.
 
     = 5.0.0.4 - April 16 2021 =
     
