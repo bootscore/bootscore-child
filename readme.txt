@@ -1,6 +1,6 @@
 === bootScore Child Theme ===
 
-Contributors: https://www.google.com/search?client=safari&rls=en&q=The+bootScore+Contributors&ie=UTF-8&oe=UTF-8
+Contributors: The bootScore Contributors
 
 Requires at least: 4.5
 Tested up to: 5.8.1
