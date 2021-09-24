@@ -9,8 +9,5 @@
 */
 
 /* 
-Add as many files as you need for development. 
-When you're done, merge them all in the style.css file to reduce file requests. 
+All style editing is done via css/lib/_bscore_custom.scss
 */
-
-@import url("css/custom.css");
