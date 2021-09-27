@@ -1,7 +1,7 @@
 <?php
 
 // style and scripts
-add_action('wp_enqueue_scripts', 'bootscore_5_child_enqueue_styles');
+add_action('wp_enqueue_scripts', 'bootscore_child_enqueue_styles');
 function bootscore_child_enqueue_styles() {
 
   // style.css
