@@ -1,18 +1,18 @@
 === bootScore Child Theme ===
 
-Contributors: The bootScore Contributors
+Contributors: Bastian Kreiter, Justin Kruit
 
 Requires at least: 4.5
 Tested up to: 5.8.1
 Requires PHP: 5.6
-Stable tag: 5.1.0.0
+Stable tag: 5.1.0.1
 License: MIT License
 License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
 
 == Description ==
 
-Child Theme for bootScore, Copyright 2019 - 2021 Bastian Kreiter.
+Child Theme for bootScore, Copyright 2019 - 2021 bootScore.
 
 Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
 
@@ -34,6 +34,11 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.1.0.1 - September 29 2021 =
+
+        * [IMPROVEMENT] Enqueue styles & scripts
+        * [NEW] Added Sass
 
     = 5.1.0.0 - September 08 2021 =
     

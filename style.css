@@ -1,16 +1,13 @@
 /*
  Theme Name:   bootScore Child
  Description:  bootScore Child Theme
- Author:       craftwerk - Bastian Kreiter
- Author URI:   https://crftwrk.de
+ Author:       bootScore
+ Author URI:   https://bootscore.me
  Template:     bootscore-main
- Version:      5.1.0.0
+ Version:      5.1.0.1
  Text Domain:  bootscore
 */
 
 /* 
-Add as many files as you need for development. 
-When you're done, merge them all in the style.css file to reduce file requests. 
+All style editing is done via css/scss/_bscore_custom.scss
 */
-
-@import url("css/custom.css");
