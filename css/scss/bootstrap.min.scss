@@ -1,5 +1,4 @@
-@import "bscore_variables";
-@import "bootstrap/bootstrap";
-@import "bscore_style";
+@import "bscore_variables";     
+@import "bootstrap/bootstrap";  // Collecting Bootstrap source from parent-theme
+@import "bscore_style";         // Collecting bootScore source from parent-theme
 @import "bscore_custom";
-@import "fontawesome";
