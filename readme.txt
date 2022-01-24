@@ -35,7 +35,7 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 == Changelog ==
 
-    = 5.1.3.1 - January 25 2021 =
+    = 5.1.3.1 - January 25 2022 =
 
         * [REMOVED] @import "fontawesome"; in css/scss/bootstrap.min.scss
         * [REMOVED] language folder
