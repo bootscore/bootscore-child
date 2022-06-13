@@ -3,9 +3,9 @@
 Contributors: Bastian Kreiter, Justin Kruit
 
 Requires at least: 4.5
-Tested up to: 5.8.3
+Tested up to: 6.0
 Requires PHP: 5.6
-Stable tag: 5.1.3.1
+Stable tag: 5.2.0.0-beta1
 License: MIT License
 License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
@@ -34,6 +34,10 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.2.0.0-beta1 - June 13 2022 =
+    
+       * SCSS to main.css
 
     = 5.1.3.1 - January 25 2022 =
 
