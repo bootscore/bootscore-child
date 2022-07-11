@@ -4,6 +4,7 @@ Start developing your new WordPress project right away in a upgrade-safe way usi
 
 ## Installation
 
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
+1. Download latest release [bootscore-child-main.zip](https://github.com/bootscore/bootscore-child/releases).
+2. In your admin panel, go to Appearance > Themes and click the Add New button.
+3. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
+4. Click Activate to use your new theme right away.
