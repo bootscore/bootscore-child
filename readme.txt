@@ -35,7 +35,7 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 == Changelog ==
 
-    = 5.2.0.0 - July 21 2022 =
+    = 5.2.0.0 - July 22 2022 =
     
        * SCSS to main.css
 
