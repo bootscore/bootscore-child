@@ -15,12 +15,3 @@ function bootscore_child_enqueue_styles()
   // custom.js
   wp_enqueue_script('custom-js', get_stylesheet_directory_uri() . '/js/custom.js', false, '', true);
 }
-
-// add TypeKit fonts to <head>
-add_action('wp_head', 'add_typekit_fonts_head');
-function add_typekit_fonts_head()
-{
-?>
-  <link rel="stylesheet" href="https://use.typekit.net/ckk1ujd.css">
-<?php
-}
