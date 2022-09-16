@@ -45,7 +45,7 @@
 
             <div class="fixed-top bg-dark">
 
-                <nav id="nav-main" class="navbar navbar-dark navbar-expand-lg navbar-main">
+                <nav id="nav-main" class="navbar navbar-dark navbar-expand-lg">
 
                     <div class="container header-container">
 
@@ -64,7 +64,7 @@
                                 wp_nav_menu(array(
                                     'theme_location' => 'main-menu',
                                     'container' => false,
-                                    'menu_class' => '',
+                                    'menu_class' => 'main-nav-link',
                                     'fallback_cb' => '__return_false',
                                     'items_wrap' => '<ul id="bootscore-navbar" class="navbar-nav ms-auto %2$s">%3$s</ul>',
                                     'depth' => 2,
