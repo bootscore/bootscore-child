@@ -3,12 +3,12 @@
  Description:  A child theme of bootScore with Northeastern CUP specific styles and functions.
  Author:       Ben Bishop
  Author URI:   https://benbishop.me
- Template:     bootscore-main
+ Template:     cup-bootscore
  Version:      5.2.1.0
  Text Domain:  bootscore
  GitHub Theme URI: northeasterncup/cup-theme-v2
+ Primary Branch: main
 */
-
 
 /* 
 All style editing is done via scss/_bscore_custom.scss
