@@ -47,7 +47,7 @@
 
                 <nav id="nav-main" class="navbar navbar-dark navbar-expand-lg">
 
-                    <div class="header-container">
+                    <div class="container header-container">
 
                         <!-- Navbar Brand -->
                         <a class="navbar-brand" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="Council for University Programs" class="logo"></a>
