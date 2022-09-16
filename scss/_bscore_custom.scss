@@ -52,3 +52,9 @@ h6,
         max-width: 1000px;
     }
 }
+
+// Gutenberg Buttons
+.wp-block-button {
+    @extend .btn;
+    @extend .btn-primary;
+}
