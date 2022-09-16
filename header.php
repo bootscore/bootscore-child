@@ -30,7 +30,7 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon/browserconfig.xml">
     <meta name="theme-color" content="#d65228">
-    <!-- TypeKit Fonts -->
+    <!-- Adobe Fonts -->
     <link rel="stylesheet" href="https://use.typekit.net/ckk1ujd.css">
     <?php wp_head(); ?>
 </head>
@@ -54,7 +54,7 @@
                         <a class="navbar-brand md d-none d-md-block" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="logo" class="logo md"></a>
 
                         <!-- Offcanvas Navbar -->
-                        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvas-navbar">
+                        <div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvas-navbar">
                             <div class="offcanvas-header bg-light">
                                 <span class="h5 mb-0"><?php esc_html_e('Menu', 'bootscore'); ?></span>
                                 <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
