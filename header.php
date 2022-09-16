@@ -43,7 +43,7 @@
 
         <header id="masthead" class="site-header">
 
-            <div class="fixed-top bg-light">
+            <div class="fixed-top bg-dark">
 
                 <nav id="nav-main" class="navbar navbar-expand-lg">
 
