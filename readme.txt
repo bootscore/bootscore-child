@@ -1,20 +1,20 @@
-=== bootScore Child Theme ===
+=== CUP Theme ===
 
-Contributors: Bastian Kreiter, Justin Kruit
+Contributors: Ben Bishop
 
 Requires at least: 4.5
 Tested up to: 6.0.1
 Requires PHP: 5.6
-Stable tag: 5.2.0.0
+Stable tag: 5.2.1.0
 License: MIT License
 License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
 
 == Description ==
 
-Child Theme for bootScore, Copyright 2019 - 2021 bootScore.
+A child theme of bootScore with Northeastern CUP specific styles and functions, Copyright 2022 Ben Bishop.
 
-Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
+Based on Child Theme for bootScore, Copyright 2019 - 2021 bootScore.
 
 
 == Live preview ==
@@ -34,6 +34,10 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.2.0.1 - September 16 2022 =
+    
+       * Rebranded as CUP theme, CUP specific baseline changes added.
 
     = 5.2.0.0 - July 22 2022 =
     
