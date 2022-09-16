@@ -36,12 +36,12 @@ $danger: $red;
 $light: $gray-100;
 $dark: $gray-900;
 // Settings for the `<body>` element.
-$body-bg: $white;
-$body-color: $gray-900;
+$body-bg: $default-white;
+$body-color: $black;
 // Navbar
-$navbar-light-color: rgba($black, .55);
-$navbar-light-hover-color: rgba($black, .7);
-$navbar-light-active-color: rgba($black, .9);
+$navbar-light-color: $light;
+$navbar-light-hover-color: $primary;
+$navbar-light-active-color: $primary;
 $navbar-padding-y: 10px;
 // Border radius
 $border-radius: .375rem;
