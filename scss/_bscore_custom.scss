@@ -11,6 +11,11 @@
     height: $navbar-brand-height * 2;
 }
 
+nav#nav-main>*>a.nav-link {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
 // Header container
 @media (min-width: 1200px) {
     .header-container {
