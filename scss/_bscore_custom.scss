@@ -55,8 +55,8 @@ h6,
 
 // Gutenberg Buttons
 .wp-block-button {
-    @extend .btn;
     .wp-block-button__link {
+        @extend .btn;
         @extend .btn-primary;
     }
 }
