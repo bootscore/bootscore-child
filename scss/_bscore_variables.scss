@@ -70,7 +70,14 @@ sans-serif,
 "Segoe UI Emoji",
 "Segoe UI Symbol",
 "Noto Color Emoji";
-$font-family-heading: americane,
+$font-family-monospace: SFMono-Regular,
+Menlo,
+Monaco,
+Consolas,
+"Liberation Mono",
+"Courier New",
+monospace;
+$headings-font-family: americane,
 acumin-pro,
 system-ui,
 -apple-system,
@@ -85,13 +92,5 @@ sans-serif,
 "Segoe UI Emoji",
 "Segoe UI Symbol",
 "Noto Color Emoji";
-$font-family-monospace: SFMono-Regular,
-Menlo,
-Monaco,
-Consolas,
-"Liberation Mono",
-"Courier New",
-monospace;
-$headings-font-family: null;
-$headings-font-weight: 500;
-$display-font-weight: 300;
+$headings-font-weight: 700;
+$display-font-weight: 400;
