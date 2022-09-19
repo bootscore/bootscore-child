@@ -47,7 +47,7 @@
                 </div>
 
                 <!-- Footer 3 Widget -->
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 mx-auto">
                     <?php if (is_active_sidebar('footer-3')) : ?>
                         <div>
                             <?php dynamic_sidebar('footer-3'); ?>
