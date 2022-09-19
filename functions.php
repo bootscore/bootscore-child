@@ -15,3 +15,14 @@ function bootscore_child_enqueue_styles()
   // custom.js
   wp_enqueue_script('custom-js', get_stylesheet_directory_uri() . '/js/custom.js', false, '', true);
 }
+
+/* Remove parent theme page templates */
+function remove_page_templates($page_templates)
+{
+  unset($page_templates['page-blank.php']);
+  unset($page_templates['page-blank-without-container.php']);
+
+  return $page_templates;
+}
+add_filter('theme_page_templates', 'remove_page_templates');
+add_filter('theme_post_templates', 'remove_page_templates');
