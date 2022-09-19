@@ -50,7 +50,7 @@
                     <div class="container header-container">
 
                         <!-- Navbar Brand -->
-                        <a class="navbar-brand" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="Council for University Programs" class="logo"></a>
+                        <a class="navbar-brand" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="Council for University Programs" class="logo md lazyloaded"></a>
 
                         <!-- Offcanvas Navbar -->
                         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas-navbar">
