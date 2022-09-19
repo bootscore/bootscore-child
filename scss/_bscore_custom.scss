@@ -6,7 +6,7 @@
 // Because this file is compiled after Bootstrap, you're also able to use Bootstrap mixins for better code.
 // Some examples can be found here: https://bootscore.me/documentation/bootstrap-css-sass
 // Header logo styling
-.main-nav-link>ul>a {
+ul.main-nav-link>li>a {
     font-size: 1.1rem;
     letter-spacing: 0.7px;
     font-weight: 300;
