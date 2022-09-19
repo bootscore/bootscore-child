@@ -53,10 +53,9 @@
                         <a class="navbar-brand" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="Council for University Programs" class="logo"></a>
 
                         <!-- Offcanvas Navbar -->
-                        <div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvas-navbar">
-                            <div class="offcanvas-header bg-light">
-                                <span class="h5 mb-0"><?php esc_html_e('Menu', 'bootscore'); ?></span>
-                                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas-navbar">
+                            <div class="offcanvas-header bg-dark">
+                                <button type="button" class="btn-close-white text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body">
                                 <!-- Bootstrap 5 Nav Walker Main Menu -->
