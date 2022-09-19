@@ -69,13 +69,13 @@
                 'container' => false,
                 'menu_class' => '',
                 'fallback_cb' => '__return_false',
-                'items_wrap' => '<ul id="footer-menu" class="nav text-light justify-content-center %2$s">%3$s</ul>',
+                'items_wrap' => '<ul id="footer-menu" class="nav text-light justify-content-center mb-2 %2$s">%3$s</ul>',
                 'depth' => 1,
                 'walker' => new bootstrap_5_wp_nav_menu_walker()
             ));
             ?>
             <!-- Bootstrap 5 Nav Walker Footer Menu End -->
-            <small class="text-light">&copy;&nbsp;<?php echo Date('Y'); ?> - <?php bloginfo('name'); ?></small>
+            <small class="text-light footer-text">&copy;&nbsp;<?php echo Date('Y'); ?> - <?php bloginfo('name'); ?></small>
         </div>
     </div>
 

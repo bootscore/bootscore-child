@@ -29,10 +29,15 @@ ul.main-nav-link>*>.dropdown-menu {
 
 // Footer styling
 #footer-menu li a {
+    font-size: 0.875em;
     padding: 0.2rem 0.5rem 0rem 0.5rem;
     color: $light;
 }
 
 #footer-menu li a:hover {
     color: $primary;
+}
+
+.footer-text {
+    line-height: 1.25;
 }
