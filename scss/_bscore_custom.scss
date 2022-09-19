@@ -14,10 +14,11 @@ ul.main-nav-link>li>a {
     margin: 0px 5px 0px 5px;
 }
 
-ul.main-nav-link>*>a.dropdown-item {
+ul.main-nav-link>*>.dropdown-menu {
     font-size: 1.1rem;
     letter-spacing: 0.7px;
     font-weight: 300;
+    color: green;
 }
 
 // Header container
