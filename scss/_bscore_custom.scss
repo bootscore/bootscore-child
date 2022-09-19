@@ -42,10 +42,10 @@ ul.main-nav-link>*>.dropdown-menu {
     line-height: 1.25;
 }
 
-.footer_widget>*>li.menu-item>a {
+.footer_widget>div>ul>li.menu-item>a {
     color: $light;
 }
 
-.footer_widget>*>li.menu-item>a {
+.footer_widget>div>ul>li.menu-item>a {
     color: shade-color($light, 15%);
 }
