@@ -19,8 +19,8 @@ function bootscore_child_enqueue_styles()
 /* Remove parent theme page templates */
 function remove_page_templates($page_templates)
 {
-  unset($page_templates['page-blank.php']);
-  unset($page_templates['page-blank-without-container.php']);
+  unset($page_templates['page-templates/page-blank.php']);
+  unset($page_templates['page-templates/page-blank-without-container.php']);
 
   return $page_templates;
 }
