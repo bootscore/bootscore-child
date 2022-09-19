@@ -23,11 +23,3 @@
         max-width: 1000px;
     }
 }
-
-// Gutenberg Buttons
-.wp-block-button {
-    .wp-block-button__link {
-        @extend .btn;
-        @extend .btn-primary;
-    }
-}

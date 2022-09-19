@@ -2,19 +2,18 @@
 // Do you want primary to be green? Just add "$primary: #00FF00;" to this file and the theme will automatically compile the scss for you.
 // Color system
 // scss-docs-start gray-color-variables
-$white: #faf5ec;
-$gray-100: #e1ddd4;
-$gray-200: #c8c4bd;
-$gray-300: #afaca5;
-$gray-400: #96938e;
-$gray-500: #7d7b76;
-$gray-600: #64625e;
-$gray-700: #4b4947;
-$gray-800: #32312f;
-$gray-900: #191818;
+$white: #fff;
+$gray-100: #e6e6e6;
+$gray-200: #cecece;
+$gray-300: #b5b5b5;
+$gray-400: #9d9d9d;
+$gray-500: #848484;
+$gray-600: #6b6b6b;
+$gray-700: #535353;
+$gray-800: #3a3a3a;
+$gray-900: #222222;
 $black: #090909;
-$default-white: #fff;
-$default-black: #000;
+$cup-white: #faf5ec;
 // scss-docs-start color-variables
 $blue: #0079ce;
 $indigo: #596bcf;
@@ -25,7 +24,7 @@ $orange: #faaa50;
 $yellow: #ffc107;
 $green: #2d9019;
 $teal: #00917A;
-$cyan: #92E1EA;
+$cyan: #28c3e2;
 // scss-docs-start theme-color-variables
 $primary: $red;
 $secondary: $gray-600;
@@ -39,9 +38,9 @@ $dark: $gray-900;
 $body-bg: $white;
 $body-color: $black;
 // Navbar
-$navbar-light-color: $light;
-$navbar-light-hover-color: $primary;
-$navbar-light-active-color: $primary;
+$navbar-dark-color: $light;
+$navbar-dark-hover-color: $primary;
+$navbar-dark-active-color: $primary;
 $navbar-padding-y: 10px;
 // Border radius
 $border-radius: .375rem;
