@@ -11,15 +11,12 @@
     height: $navbar-brand-height * 2;
 }
 
-.main-nav-link ul {
-    margin: 0px 10px 0px 10px;
-}
-
 .main-nav-link a {
     font-size: 1.1rem;
     letter-spacing: 0.7px;
     font-weight: 300;
     text-transform: uppercase;
+    margin: 0px 10px 0px 10px;
 }
 
 // Header container
