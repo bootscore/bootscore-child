@@ -14,6 +14,12 @@ ul.main-nav-link>li>a {
     margin: 0px 5px 0px 5px;
 }
 
+ul.main-nav-link>.dropdown-link>a {
+    font-size: 1.1rem;
+    letter-spacing: 0.7px;
+    font-weight: 300;
+}
+
 // Header container
 @media (min-width: 1200px) {
     .header-container {
