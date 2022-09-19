@@ -6,15 +6,12 @@
 // Because this file is compiled after Bootstrap, you're also able to use Bootstrap mixins for better code.
 // Some examples can be found here: https://bootscore.me/documentation/bootstrap-css-sass
 // Header logo styling
-// .logo {
-//     width: auto;
-//     height: $navbar-brand-height * 2;
-// }
 .main-nav-link a {
     font-size: 1.1rem;
     letter-spacing: 0.7px;
     font-weight: 300;
     text-transform: uppercase;
+    margin: 0px 5px 0px 5px;
 }
 
 // Header container
