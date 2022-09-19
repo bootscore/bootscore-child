@@ -29,7 +29,7 @@
             <div class="row">
 
                 <!-- Footer 1 Widget -->
-                <div class="col-sm-12 col-lg-4 text-center">
+                <div class="col-md-4 col-lg-4 text-center">
                     <?php if (is_active_sidebar('footer-1')) : ?>
                         <div>
                             <?php dynamic_sidebar('footer-1'); ?>
@@ -38,7 +38,7 @@
                 </div>
 
                 <!-- Footer 2 Widget -->
-                <div class="col-sm-12 col-lg-4 text-center">
+                <div class="col-md-4 col-lg-4 text-center">
                     <?php if (is_active_sidebar('footer-2')) : ?>
                         <div>
                             <?php dynamic_sidebar('footer-2'); ?>
@@ -47,7 +47,7 @@
                 </div>
 
                 <!-- Footer 3 Widget -->
-                <div class="col-sm-12 col-lg-4 text-center">
+                <div class="col-md-4 col-lg-4 text-center">
                     <?php if (is_active_sidebar('footer-3')) : ?>
                         <div>
                             <?php dynamic_sidebar('footer-3'); ?>
