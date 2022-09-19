@@ -50,12 +50,12 @@
                     <div class="container header-container">
 
                         <!-- Navbar Brand -->
-                        <a class="navbar-brand" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="Council for University Programs" class="logo"></a>
+                        <a class="navbar-brand" href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo esc_url(get_stylesheet_directory_uri()); ?>/img/logo/logo.svg" alt="Council for University Programs" class="logo p-2"></a>
 
                         <!-- Offcanvas Navbar -->
                         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas-navbar">
                             <div class="offcanvas-header bg-dark">
-                                <button type="button" class="btn-close-white text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                                <button type="button" class="btn-close btn-close-white text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body bg-dark">
                                 <!-- Bootstrap 5 Nav Walker Main Menu -->
