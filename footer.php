@@ -57,6 +57,11 @@
 
             </div>
 
+        </div>
+    </div>
+
+    <div class="bootscore-info bg-dark text-muted border-top py-2 text-center">
+        <div class="container">
             <!-- Bootstrap 5 Nav Walker Footer Menu -->
             <?php
             wp_nav_menu(array(
@@ -70,12 +75,6 @@
             ));
             ?>
             <!-- Bootstrap 5 Nav Walker Footer Menu End -->
-
-        </div>
-    </div>
-
-    <div class="bootscore-info bg-dark text-muted border-top py-2 text-center">
-        <div class="container">
             <small class="text-light">&copy;&nbsp;<?php echo Date('Y'); ?> - <?php bloginfo('name'); ?></small>
         </div>
     </div>
