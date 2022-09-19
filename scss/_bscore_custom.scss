@@ -46,6 +46,6 @@ ul.main-nav-link>*>.dropdown-menu {
     color: $light;
 }
 
-.footer_widget>li.menu-item>a {
+.footer_widget>*>li.menu-item>a {
     color: shade-color($light, 15%);
 }
