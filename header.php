@@ -29,7 +29,7 @@
     <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon/favicon.ico">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="msapplication-config" content="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon/browserconfig.xml">
-    <meta name="theme-color" content="#d65228">
+    <meta name="theme-color" content="#090909">
     <!-- Adobe Fonts -->
     <link rel="stylesheet" href="https://use.typekit.net/ckk1ujd.css">
     <!-- Bootstrap Icons -->
@@ -45,7 +45,7 @@
 
         <header id="masthead" class="site-header">
 
-            <div class="fixed-top bg-dark">
+            <div class="sticky-top bg-dark">
 
                 <nav id="nav-main" class="navbar navbar-expand-lg navbar-dark">
 
