@@ -44,8 +44,11 @@ ul.main-nav-link>*>.dropdown-menu {
 
 .footer_widget>div>ul>li.menu-item>a {
     color: $light;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 
 .footer_widget>div>ul>li.menu-item>a:hover {
     color: $primary;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
