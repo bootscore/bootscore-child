@@ -45,7 +45,7 @@
 
             <div class="fixed-top bg-dark">
 
-                <nav id="nav-main" class="navbar navbar-dark navbar-expand-lg">
+                <nav id="nav-main" class="navbar navbar-expand-md navbar-dark">
 
                     <div class="container header-container">
 
@@ -66,7 +66,7 @@
                                     'container' => false,
                                     'menu_class' => 'main-nav-link',
                                     'fallback_cb' => '__return_false',
-                                    'items_wrap' => '<ul id="bootscore-navbar" class="navbar-nav mx-2 %2$s">%3$s</ul>',
+                                    'items_wrap' => '<ul id="bootscore-navbar" class="navbar-nav ms-auto %2$s">%3$s</ul>',
                                     'depth' => 2,
                                     'walker' => new bootstrap_5_wp_nav_menu_walker()
                                 ));
