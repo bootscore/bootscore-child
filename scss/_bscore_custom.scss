@@ -42,13 +42,15 @@ ul.main-nav-link>*>.dropdown-menu {
     line-height: 1.25;
 }
 
-.footer_widget>div>ul>li.menu-item>a {
+.footer_widget>div>ul>li.menu-item>a,
+.footer-copyright-link {
     color: $light;
     text-decoration: none;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 
-.footer_widget>div>ul>li.menu-item>a:hover {
+.footer_widget>div>ul>li.menu-item>a:hover,
+.footer-copyright-link:hover {
     color: $primary;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
