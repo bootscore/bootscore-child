@@ -15,10 +15,10 @@ ul.main-nav-link>li>a {
 }
 
 ul.main-nav-link>*>.dropdown-menu {
-    font-size: 1.1rem;
     letter-spacing: 0.7px;
     font-weight: 300;
     text-transform: uppercase;
+    @extend .py-2;
 }
 
 // Header container
