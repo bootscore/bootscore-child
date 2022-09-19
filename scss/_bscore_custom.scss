@@ -26,3 +26,13 @@ ul.main-nav-link>*>.dropdown-menu {
         max-width: 1000px;
     }
 }
+
+// Footer styling
+#footer-menu li a {
+    margin-left: 0.5rem;
+    color: $light;
+}
+
+#footer-menu li a:hover {
+    color: $primary;
+}
