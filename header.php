@@ -32,6 +32,8 @@
     <meta name="theme-color" content="#d65228">
     <!-- Adobe Fonts -->
     <link rel="stylesheet" href="https://use.typekit.net/ckk1ujd.css">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <?php wp_head(); ?>
 </head>
 
