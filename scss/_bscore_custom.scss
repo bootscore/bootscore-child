@@ -41,3 +41,11 @@ ul.main-nav-link>*>.dropdown-menu {
 .footer-text {
     line-height: 1.25;
 }
+
+.footer_widget>li.menu-item>a {
+    @extend .link-light;
+}
+
+.footer_widget>li.menu-item>a {
+    @extend .link-light;
+}
