@@ -55,7 +55,7 @@
                         <!-- Offcanvas Navbar -->
                         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas-navbar">
                             <div class="offcanvas-header bg-dark">
-                                <button type="button" class="btn-close btn-light text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body bg-dark">
                                 <!-- Bootstrap 5 Nav Walker Main Menu -->
