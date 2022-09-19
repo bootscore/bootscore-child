@@ -11,15 +11,15 @@
     height: $navbar-brand-height * 2;
 }
 
-a.menu-item-home {
+.menu-item-home {
+    margin: 0px 10px 0px 10px;
+}
+
+.menu-item-home a {
     font-size: 1.25rem;
     letter-spacing: 0.7px;
     font-weight: 300;
     text-transform: uppercase;
-}
-
-.menu-item-home {
-    margin: 0px 10px 0px 10px;
 }
 
 // Header container
