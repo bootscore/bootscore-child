@@ -47,7 +47,7 @@
 
             <div class="sticky-top bg-dark">
 
-                <nav id="nav-main" class="navbar navbar-expand-lg navbar-dark">
+                <nav id="nav-main" class="navbar navbar-expand-lg navbar-dark sticky-top">
 
                     <div class="container header-container">
 
