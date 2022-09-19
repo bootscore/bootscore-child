@@ -75,7 +75,8 @@
             ));
             ?>
             <!-- Bootstrap 5 Nav Walker Footer Menu End -->
-            <small class="text-light footer-text">&copy;&nbsp;<?php echo Date('Y'); ?> - <?php bloginfo('name'); ?></small>
+            <small class="text-light footer-text">&copy;&nbsp;<?php echo Date('Y'); ?> - <?php bloginfo('name'); ?></small></br>
+            <small class="text-light footer-text">Designed by Ben Bishop • <a href="/wp-admin">Admin Login</a></small>
         </div>
     </div>
 
