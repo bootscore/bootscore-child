@@ -64,3 +64,34 @@ ul.main-nav-link>*>.dropdown-menu {
     color: $primary;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
+
+// Heading Styling
+h1,
+.h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 0.05rem;
+}
+
+h2,
+.h2 {
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 0.05rem;
+}
+
+h3,
+.h3 {
+    font-family: $font-family-sans-serif;
+}
+
+h4,
+.h4 {
+    font-family: $font-family-sans-serif;
+    font-weight: 400;
+}
+
+h6,
+.h6 {
+    font-weight: 300;
+}
