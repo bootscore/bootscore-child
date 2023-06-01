@@ -1,0 +1,27 @@
+{
+    "name": "bootscore/bootscore-child",
+    "description": "child theme for bootscore",
+    "type": "wordpress-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "The Bootscore Authors"
+        }
+    ],
+    "readme": "README.md",
+    "homepage": "https://bootscore.me/",
+    "support": {
+      "issues": "https://github.com/bootscore/bootscore/issues",
+      "forum": "https://github.com/orgs/bootscore/discussions",
+      "source": "https://github.com/bootscore/bootscore-child",
+      "docs": "https://bootscore.me/documentation/"
+    },
+    "minimum-stability": "stable",
+    "keywords": [
+      "wordpress",
+      "theme",
+      "bootscore",
+      "bootstrap",
+      "woocommerce"
+    ]
+}
