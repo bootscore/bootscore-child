@@ -3,9 +3,9 @@
 Contributors: Bastian Kreiter, Justin Kruit
 
 Requires at least: 4.5
-Tested up to: 6.0.1
+Tested up to: 6.2.2
 Requires PHP: 5.6
-Stable tag: 5.2.0.0
+Stable tag: 5.3.0
 License: MIT License
 License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
@@ -34,6 +34,10 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 
 == Changelog ==
+
+    = 5.3.0 - June 02 2023 =
+
+       * Enable Woo styles by default
 
     = 5.2.0.0 - July 22 2022 =
     
