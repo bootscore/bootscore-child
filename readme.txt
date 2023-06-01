@@ -38,6 +38,7 @@ https://bootscore.me/documentation/using-the-child-themes/
     = 5.3.0 - June 02 2023 =
 
        * Enable Woo styles by default
+       * Create composer.json and submit to packagist
 
     = 5.2.0.0 - July 22 2022 =
     
