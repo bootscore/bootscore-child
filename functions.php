@@ -1,5 +1,15 @@
 <?php
 
+/**
+ * @package Bootscore Child
+ * @version 5.4.0
+ */
+
+
+// Exit if accessed directly
+defined( 'ABSPATH' ) || exit;
+
+
 // style and scripts
 add_action('wp_enqueue_scripts', 'bootscore_child_enqueue_styles');
 function bootscore_child_enqueue_styles() {
