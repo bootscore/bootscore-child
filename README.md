@@ -1,5 +1,7 @@
 # bootScore Child Theme
 
+[![Packagist Prerelease](https://img.shields.io/packagist/vpre/bootscore/bootscore-child?logo=packagist&logoColor=fff)](https://packagist.org/packages/bootscore/bootscore-child)
+
 Start developing your new WordPress project right away in a upgrade-safe way using overrides by copying files from [bootScore](https://github.com/crftwrk/bootscore) parent theme.
 
 ## Installation
