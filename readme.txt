@@ -1,18 +1,18 @@
-=== bootScore Child Theme ===
+=== Bootscore Child Theme ===
 
-Contributors: Bastian Kreiter, Justin Kruit
+Contributors: Bastian Kreiter, Justin Kruit, DrDBanner
 
 Requires at least: 4.5
-Tested up to: 6.2.2
-Requires PHP: 5.6
-Stable tag: 5.3.0
+Tested up to: 6.4.3
+Requires PHP: 7.4
+Stable tag: 6.0.0-dev
 License: MIT License
 License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
 
 == Description ==
 
-Child Theme for bootScore, Copyright 2019 - 2021 bootScore.
+Child Theme for bootScore, Copyright 2019 - 2024 Bootscore.
 
 Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
 

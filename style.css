@@ -1,13 +1,18 @@
 /*
- Theme Name:   bootScore Child
- Description:  bootScore Child Theme
- Author:       bootScore
+ Theme Name:   Bootscore Child
+ Description:  Bootscore Child Theme
+ Author:       Bootscore
  Author URI:   https://bootscore.me
  Template:     bootscore
- Version:      5.3.0
+ Version:      6.0.0-dev
+ Requires at least: 5.0
+ Tested up to: 6.4.3
+ Requires PHP: 7.4
+ License: MIT License
+ License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
  Text Domain:  bootscore
 */
 
 /* 
-All style editing is done via scss/_bscore_custom.scss
+All style editing is done via /assets/scss/_bootscore_custom.scss
 */
