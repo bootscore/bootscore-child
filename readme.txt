@@ -12,9 +12,9 @@ License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
 == Description ==
 
-Child Theme for bootScore, Copyright 2019 - 2024 Bootscore.
+Child Theme for Bootscore, Copyright 2019 - 2024 Bootscore.
 
-Start developing your new project right away in a upgrade-safe way using overrides by copying files from bootScore parent theme.
+Start developing your new project right away in a upgrade-safe way using overrides by copying files from Bootscore parent theme.
 
 
 == Live preview ==
@@ -55,7 +55,7 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 = 5.1.0.0 - September 08 2021 =
 
-* Set path to the new repository name of bootScore parent theme.
+* Set path to the new repository name of Bootscore parent theme.
 
 = 5.0.0.4 - April 16 2021 =
 
@@ -63,7 +63,7 @@ https://bootscore.me/documentation/using-the-child-themes/
 
 = 5.0.0.3 - April 12 2021 =
 
-* Added language folder (languages moves from bootScore parent into language packs later)
+* Added language folder (languages moves from Bootscore parent into language packs later)
 * Readded custom.css
 * Readded custom.js
 * Added readme.txt
