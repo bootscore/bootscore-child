@@ -16,5 +16,4 @@ defined('ABSPATH') || exit;
  */
 require_once get_stylesheet_directory() . '/inc/enqueue.php';  // Enqueue styles & scripts
 require_once get_stylesheet_directory() . '/inc/logo.php';     // Adjust logo width & height
-
-
+require_once get_stylesheet_directory() . '/inc/icons.php';    // Change icons
