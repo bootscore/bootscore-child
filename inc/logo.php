@@ -2,6 +2,8 @@
 /**
  * Logo size
  * 
+ * https://bootscore.me/documentation/theme/bootscore-child/#logo
+ * 
  * @package Bootscore Child
  * @version 7.0.0
  */
