@@ -4,3 +4,4 @@ package-lock.json
 .prettierrc
 assets/css/bootscore.min.css
 assets/css/bootscore.min.css.map
+assets/js/bootscore.min.js
