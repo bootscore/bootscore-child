@@ -20,10 +20,7 @@ function bootscore_child_enqueue_styles() {
 
   // Compiled main.css
   $modified_bootscoreChildCss = date('YmdHi', filemtime(get_stylesheet_directory() . '/assets/css/bootscore.min.css'));
-  wp_enqueue_style('bootscore-main', get_stylesheet_directory_uri() . '/assets/css/bootscore.min.css', array('parent-style'), $modified_bootscoreChildCss);
-
-  // style.css
-  wp_enqueue_style('parent-style', get_template_directory_uri() . '/style.css');
+  wp_enqueue_style('bootscore-main', get_stylesheet_directory_uri() . '/assets/css/bootscore.min.css', array(), $modified_bootscoreChildCss);
 
   // Compiled bootscore.min.js - overrides parent theme's version if it exists
   // in the child theme. Falls back to the parent's file automatically if
