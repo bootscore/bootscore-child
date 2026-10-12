@@ -2,10 +2,10 @@
 
 Contributors: Bastian Kreiter, Justin Kruit, DrDBanner
 
-Requires at least: 5.0
-Tested up to: 6.6
-Requires PHP: 7.4
-Stable tag: 6.0.0
+Requires at least: 7.0
+Tested up to: 7.1
+Requires PHP: 8.1
+Stable tag: 7.0.0
 License: MIT License
 License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 

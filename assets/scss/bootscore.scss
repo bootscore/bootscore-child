@@ -1,0 +1,66 @@
+
+//@import "bootscore-variables";
+
+
+// scss-docs-start import-stack
+@forward "bootstrap/banner";
+
+// Configuration variables and maps, such as $utilities. Forwarding config makes
+// them configurable from this entrypoint with `@use ... with (...)`. Emits no CSS.
+@forward "bootstrap/config";
+
+@forward "bootstrap/colors";
+
+// Theme color maps ($theme-colors, $theme-bgs, etc.). Forwarding makes them
+// configurable from this entrypoint with `@use ... with (...)`. Emits no CSS.
+@forward "bootstrap/theme";
+
+// Global CSS variables, layer definitions, and configuration
+@forward "bootstrap/root";
+
+// Subdir imports
+@forward "bootstrap/content";
+@forward "bootstrap/layout";
+@forward "bootstrap/forms";
+@forward "bootstrap/buttons";
+
+// Components
+@forward "bootstrap/accordion";
+@forward "bootstrap/alert";
+@forward "bootstrap/avatar";
+@forward "bootstrap/badge";
+@forward "bootstrap/breadcrumb";
+@forward "bootstrap/chip";
+@forward "bootstrap/card";
+@forward "bootstrap/carousel";
+@forward "bootstrap/datepicker";
+@forward "bootstrap/dialog";
+@forward "bootstrap/menu";
+@forward "bootstrap/list-group";
+@forward "bootstrap/nav";
+@forward "bootstrap/nav-overflow";
+@forward "bootstrap/navbar";
+@forward "bootstrap/drawer";
+@forward "bootstrap/pagination";
+@forward "bootstrap/placeholder";
+@forward "bootstrap/popover";
+@forward "bootstrap/progress";
+@forward "bootstrap/spinner";
+@forward "bootstrap/stepper";
+@forward "bootstrap/toasts";
+@forward "bootstrap/tooltip";
+@forward "bootstrap/transitions";
+
+// Helpers
+@forward "bootstrap/helpers";
+
+// Utilities
+@forward "bootstrap/utilities/api";
+// scss-docs-end import-stack
+
+
+
+@forward "bootscore-style";
+//@import "bootscore-woocommerce"; // Comment or delete this line if WooCommerce styles are not needed
+//@import "bootscore-utilities";
+//@import "bootscore-custom";
