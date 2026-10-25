@@ -1,0 +1,23 @@
+// Bootscore config
+// Configures Bootstrap before any Bootstrap module loads.
+// Docs: https://bootscore.me/documentation/theme/scss-compiler/#bootscore-config-scss
+
+@use "sass:map";
+@use "bootscore/utilities" as bootscore;
+
+@use "bootstrap/config" with (
+
+  // Settings: any `!default` variable from bootstrap/scss/_config.scss
+  //$enable-rounded: false,
+  //$radius: 0,
+
+  // Maps: your keys merge over the defaults
+  //$radii: (
+  //  10: 1.125rem,
+  //),
+
+  // Utilities: keep `bootscore.$utilities`, it holds the theme's utilities
+  $utilities: map.merge(bootscore.$utilities, (
+    // Your utilities here
+  )),
+);
