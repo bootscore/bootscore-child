@@ -12,7 +12,7 @@ License URI: https://github.com/bootscore/bootscore-child/blob/main/LICENSE
 
 == Description ==
 
-Child Theme for Bootscore, Copyright 2019 - 2024 Bootscore.
+Child Theme for Bootscore, Copyright 2019 - 2026 Bootscore.
 
 Start developing your new project right away in a upgrade-safe way using overrides by copying files from Bootscore parent theme.
 
