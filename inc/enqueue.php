@@ -18,8 +18,8 @@ defined( 'ABSPATH' ) || exit;
 add_action('wp_enqueue_scripts', 'bootscore_child_enqueue_styles');
 function bootscore_child_enqueue_styles() {
 
-  // Compiled main.css
-  $modified_bootscoreChildCss = date('YmdHi', filemtime(get_stylesheet_directory() . '/assets/css/bootscore.min.css'));
+  // Compiled bootscore.min.css. Missing until the compiler has run once, see parent theme's inc/compiler/scss-compiler.php
+  $modified_bootscoreChildCss = file_exists(get_stylesheet_directory() . '/assets/css/bootscore.min.css') ? date('YmdHi', filemtime(get_stylesheet_directory() . '/assets/css/bootscore.min.css')) : 1;
   wp_enqueue_style('bootscore', get_stylesheet_directory_uri() . '/assets/css/bootscore.min.css', array(), $modified_bootscoreChildCss);
 
   // Compiled bootscore.min.js - overrides parent theme's version if it exists
